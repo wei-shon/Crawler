@@ -1,5 +1,5 @@
 # Target : Gooddinfo
-This is uesd to get the  stock that I care about 
+This is uesd to get the information about  stock that I care about 
 # Use
 request : get the connecct to the website Goodinfo
 
